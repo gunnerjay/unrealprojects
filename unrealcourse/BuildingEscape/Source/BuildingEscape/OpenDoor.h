@@ -31,7 +31,5 @@ private:
 	float openAngle = 90.f;
 	UPROPERTY(EditAnywhere)
 	ATriggerVolume* PressurePlate;
-
-	UPROPERTY(EditAnywhere)
 	AActor* ActorThatOpens;
 };
